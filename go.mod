@@ -1,4 +1,4 @@
-module github.com/hotnops/gtunnel
+module github.com/kai5263499/gtunnel
 
 go 1.14
 

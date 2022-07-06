@@ -12,8 +12,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/hotnops/gTunnel/common"
-	as "github.com/hotnops/gTunnel/grpc/admin"
+	"github.com/kai5263499/gtunnel/common"
+	as "github.com/kai5263499/gtunnel/grpc/admin"
 	"github.com/olekukonko/tablewriter"
 	"google.golang.org/grpc"
 )

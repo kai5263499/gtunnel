@@ -6,8 +6,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/hotnops/gTunnel/common"
-	as "github.com/hotnops/gTunnel/grpc/admin"
+	"github.com/kai5263499/gtunnel/common"
+	as "github.com/kai5263499/gtunnel/grpc/admin"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/reflection"

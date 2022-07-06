@@ -4,7 +4,7 @@ import (
 	"net"
 	"sync"
 
-	cs "github.com/hotnops/gTunnel/grpc/client"
+	cs "github.com/kai5263499/gtunnel/grpc/client"
 )
 
 // A structure to handle the TCP connection

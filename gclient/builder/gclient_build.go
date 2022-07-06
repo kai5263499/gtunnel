@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/hotnops/gTunnel/common"
+	"github.com/kai5263499/gtunnel/common"
 )
 
 func GenerateClient(

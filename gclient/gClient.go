@@ -9,10 +9,10 @@ import (
 	"io"
 	"os"
 
-	cs "github.com/hotnops/gTunnel/grpc/client"
+	cs "github.com/kai5263499/gtunnel/grpc/client"
 	"github.com/segmentio/ksuid"
 
-	"github.com/hotnops/gTunnel/common"
+	"github.com/kai5263499/gtunnel/common"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
